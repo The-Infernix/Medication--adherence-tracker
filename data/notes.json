@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Coldact"
+    },
+    {
+      "id": 1,
+      "name": "Dolo 650"
+    },
+    {
+      "id": 2,
+      "name": "Meftal SPAS"
+    },
+    {
+      "id": 3,
+      "name": "Nise"
+    },
+    {
+      "id": 4,
+      "name": "Norflox TZ"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

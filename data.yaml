@@ -1,0 +1,10 @@
+path: C:\OBJECT DETECTION\Pill Training\data  # absolute path to your dataset root
+train: train/images
+val: val/images
+
+names:
+  0: Coldact
+  1: Dolo 650
+  2: Meftal SPAS
+  3: Nise
+  4: Norflox TZ

@@ -1,0 +1,6 @@
+path: C:/OBJECT DETECTION/Pill Training/pills-detection-yolo
+train: train/images
+val: valid/images
+
+names:
+  0: pill

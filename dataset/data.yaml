@@ -1,0 +1,7 @@
+path: dataset  # root dataset folder
+train: train   # subfolder for training images
+val: val       # subfolder for validation images
+names:
+  0: PillA
+  1: PillB
+  2: PillC
