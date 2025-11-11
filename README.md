@@ -158,12 +158,6 @@ model.predict(source=0, show=True, conf=0.5)
 * Integrate OCR to read **pill labels or imprints**.
 * Deploy on **mobile devices** for real-time offline detection.
 
----
-
-## 👥 **Team**
-
-* **Pavan Ganesh** – Model training, data preparation, and testing
-* **(Optional)** Add teammates if any (model optimization, deployment, etc.)
 
 ---
 
